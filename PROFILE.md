@@ -1,1 +1,3 @@
 Welcome to my GitHub profile!
+def calculate_average(numbers):
+    # Start typing here and watch Copilot suggest the function body
